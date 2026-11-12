@@ -55,6 +55,8 @@ The application is designed to help users organize their image and video collect
 ## Project Status
 
 Media Duplicate Finder is an earlier standalone project in my media management work.
+Its installation and platform compatibility have not been recently verified; review
+the detected groups carefully and test with copies before using deletion on important files.
 
 For a newer application focused specifically on organizing music libraries, see [MeloShelf](https://github.com/Danieljucke/MeloShelf).
 
